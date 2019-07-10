@@ -7,12 +7,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+/* Name: Chowdhury Atika Parvin
+ * ID# 301007336
+ * Description: Calculator Demo
+ * Date: July 09, 2019
+ * Version: 0.1 - Created the project
+ */
 namespace CalculatorDemo
 {
-    public partial class Form1 : Form
+    public partial class CalculatorForm : Form
     {
-        public Form1()
+        public CalculatorForm()
         {
             InitializeComponent();
         }
