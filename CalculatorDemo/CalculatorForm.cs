@@ -11,7 +11,7 @@ using System.Windows.Forms;
  * ID# 301007336
  * Description: Calculator Demo
  * Date: July 09, 2019
- * Version: 0.3 - Created the shared event handler for operator buttons
+ * Version: 0.3 - Created the shared event handler for operator all buttons
  */
 namespace CalculatorDemo
 {
